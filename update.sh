@@ -1,0 +1,1 @@
+scp  go_display/main.go debian@192.168.7.2:/home/debian/maisumteste/go_display/main.go
